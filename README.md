@@ -1,0 +1,2 @@
+# magnaporthe
+Magnaporthe genome datasets
